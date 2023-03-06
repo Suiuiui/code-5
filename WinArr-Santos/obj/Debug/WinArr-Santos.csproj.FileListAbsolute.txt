@@ -1,0 +1,11 @@
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\bin\Debug\WinArr-Santos.exe.config
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\bin\Debug\WinArr-Santos.exe
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\bin\Debug\WinArr-Santos.pdb
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\obj\Debug\WinArr-Santos.csproj.AssemblyReference.cache
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\obj\Debug\WinArr-Santos.csproj.SuggestedBindingRedirects.cache
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\obj\Debug\WinArr_Santos.Form1.resources
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\obj\Debug\WinArr_Santos.Properties.Resources.resources
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\obj\Debug\WinArr-Santos.csproj.GenerateResource.cache
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\obj\Debug\WinArr-Santos.csproj.CoreCompileInputs.cache
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\obj\Debug\WinArr-Santos.exe
+C:\Users\QQ137\source\repos\WinArr-Santos\WinArr-Santos\obj\Debug\WinArr-Santos.pdb
